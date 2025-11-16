@@ -1,2 +1,2 @@
 # CourseraWork
-Assignments for coURSERA
+Assignments for coursera
